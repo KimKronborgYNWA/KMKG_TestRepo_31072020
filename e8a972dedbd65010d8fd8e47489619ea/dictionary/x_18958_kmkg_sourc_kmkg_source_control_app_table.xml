@@ -3,5 +3,6 @@
         <element label="Active" max_length="40" name="u_active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="App Name" max_length="40" name="u_app_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
+        <element label="Test1" max_length="40" name="u_test1" type="string"/>
     </element>
 </database>
