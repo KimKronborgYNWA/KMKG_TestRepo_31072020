@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="KMKG Source Control App Table" max_length="40" name="x_18958_kmkg_sourc_kmkg_source_control_app_table" type="collection">
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="App Name" max_length="40" name="u_app_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
+    </element>
+</database>

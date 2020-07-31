@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_18958_kmkg_sourc.test_source_control</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_18958_kmkg_sourc.test_source_control</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-31 16:48:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>64b9bad2db525010d8fd8e4748961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_18958_kmkg_sourc.test_source_control</sys_name>
+        <sys_package display_value="KMKG_SourceControlTestApp" source="x_18958_kmkg_sourc">e8a972dedbd65010d8fd8e47489619ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="KMKG_SourceControlTestApp">e8a972dedbd65010d8fd8e47489619ea</sys_scope>
+        <sys_update_name>sys_user_role_64b9bad2db525010d8fd8e4748961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-31 16:48:31</sys_updated_on>
+    </sys_user_role>
+</record_update>

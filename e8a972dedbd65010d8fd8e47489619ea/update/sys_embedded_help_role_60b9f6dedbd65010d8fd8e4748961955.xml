@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_18958_kmkg_sourc.test_source_control" name="x_18958_kmkg_sourc.test_source_control">64b9bad2db525010d8fd8e4748961933</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-31 16:48:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>60b9f6dedbd65010d8fd8e4748961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>64b9bad2db525010d8fd8e4748961933</sys_name>
+        <sys_package display_value="KMKG_SourceControlTestApp" source="x_18958_kmkg_sourc">e8a972dedbd65010d8fd8e47489619ea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="KMKG_SourceControlTestApp">e8a972dedbd65010d8fd8e47489619ea</sys_scope>
+        <sys_update_name>sys_embedded_help_role_60b9f6dedbd65010d8fd8e4748961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-31 16:48:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
